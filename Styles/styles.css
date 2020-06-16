@@ -1,0 +1,18 @@
+h1 {
+    background-color: royalblue; color: white;}
+    
+
+.font_background{
+   background-color: red; 
+   opacity: .9;
+   color: white;
+}
+
+.font_background2{
+   background-color: blue; 
+   opacity: .9;
+   color: white;
+}
+
+.center{
+   text-align: center;}
